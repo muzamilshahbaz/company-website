@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
+
+
     <section class="page-title bg-1">
         <div class="container">
             <div class="row">
