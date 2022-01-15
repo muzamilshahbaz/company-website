@@ -59,7 +59,7 @@
 
                       <ul class="address-block list-unstyled">
                           <li>
-                              <i class="ti-direction mr-3"></i>North Main Street,Brooklyn Australia
+                              <i class="ti-direction mr-3"></i>Lahore, Pakistan
                           </li>
                           <li>
                               <i class="ti-email mr-3"></i>Email: contact@mail.com
