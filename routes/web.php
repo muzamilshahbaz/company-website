@@ -22,6 +22,22 @@ Route::get('/about', function () {
     return view('pages.about');
 });
 
+Route::get('/pricing', function () {
+    return view('pages.pricing');
+});
+
+Route::get('/service', function () {
+    return view('pages.service');
+});
+
+Route::get('/project', function () {
+    return view('pages.project');
+});
+
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+
 Auth::routes();
 
 // Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

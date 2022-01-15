@@ -53,7 +53,7 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<div class="copyright">
-						&copy; Developed By <a href="https://github.com/muzamilshahbaz" target="__blank">Muzamil Shahbaz</a> <br> Copyright Reserved to <span class="text-color">Company Portfolio</span>
+						&copy; Developed By <a href="https://github.com/muzamilshahbaz" target="__blank">Muzamil Shahbaz</a> {{-- <br> Copyright Reserved to <span class="text-color">Company Portfolio</span> --}}
 					</div>
 				</div>
 				<div class="col-lg-6 text-left text-lg-right">
